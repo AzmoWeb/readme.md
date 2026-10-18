@@ -2,13 +2,13 @@
 
 
 
-[![My Skills](https://skillicons.dev/icons?i=github,js,ts,html,css,react,lua,cs,vscode,discord)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,js,html,css,lua,vscode,discord)](https://skillicons.dev)
 
 
 
 ### 🧐 About Me
 
-- **Languages:** "Python, Discord JS, , "HTML", "CSS", Lua, C#"
+- **Languages:** Python, Discord JS, , HTML, CSS", Lua"
 
 - **Games:** Fortnite, FiveM, etc...
 

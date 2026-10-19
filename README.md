@@ -25,4 +25,4 @@
 
 
 
-[![Azmo](https://img.shields.io/badge/Traxcs-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/azmoweb)
+[![Azmo](https://img.shields.io/badge/AzmoWeb-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/azmoweb)

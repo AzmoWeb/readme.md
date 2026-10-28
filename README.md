@@ -10,7 +10,7 @@
 
 - **Languages:** Python, Discord JS, , HTML, CSS", Lua"
 
-- **Games:** Fortnite, FiveM, etc...
+- **Games:** , RedM, FiveM, etc...
 
 
 
@@ -20,8 +20,8 @@
 
 
 
-[![](https://streak-stats.demolab.com?user=traxcs&theme=dark)](https://git.io/streak-stats)</br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=martindepanne&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+[![](https://streak-stats.demolab.com?user=azmoweb&theme=dark)](https://git.io/streak-stats)</br>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=azmoweb&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 
 
